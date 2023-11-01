@@ -16,7 +16,7 @@ Ministrado por Monica Hillman, o curso <a href="https://cursos.alura.com.br/cour
 </p>
 <br>
 <br>
-<p align="center"><img width="50%" src="./img/responsivo-site.gif" alt="gif pessoa digitando"></p>
+<p align="center"><img width="50%" src="./img/responsivo2.gif" alt="gif pessoa digitando"></p>
 <br>
 <br>
 
