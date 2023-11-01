@@ -38,11 +38,11 @@ No decorrer da aula foi realizada algumas revisões a cerca de alguns conceitos 
 
 Segue abaixo as implementações dos layouts de resposividade, seguindo o projeto desenvolvido no FIgma pela equipe da Alura: <br>
 
-<li>Mobile (min-width; 428px); 
+<li>Mobile (min-width; 428px); <br>
   <img width="50%" src="img/mobile.gif" alt="alura-books-mobile"><br>
-<li>Tablet (min-widtth: 1024px);
+<li>Tablet (min-widtth: 1024px); <br>
   <img width="50%" src="img/tablet.gif" alt="alura-books-tablet"><br>
-<li>Desktop (min-width: 1728px).
+<li>Desktop (min-width: 1728px). <br>
 <img width="50%" src="img/desktop.gif" alt="alura-books-desktop"><br><br>
 
 
