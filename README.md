@@ -55,8 +55,7 @@ Segue abaixo as implementações dos layouts de resposividade, seguindo o projet
 <br>
 
  <br><br>
-<img src="img/user.jpg" alt="Eloizi" size="50%" style="border-radius=18px">
- <sub><b>Eloizi❤️</b></sub></a>
+ <sub><b>By Eloizi❤️</b></sub></a>
 
  👋 Agradeço por me visitar! Entre em contato! 💬✨
 
