@@ -22,7 +22,7 @@ Ministrado por Monica Hillman, o curso <a href="https://cursos.alura.com.br/cour
 
 ## 🚀 Tecnologias
 
-Esse projeto está sendo desenvolvido com as seguintes tecnologias:
+Projeto desenvolvido com as seguintes tecnologias:
 
 <li> HTML
 <li> CSS 
