@@ -32,8 +32,7 @@ Projeto desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 link do projeto: <a href="https://eloizi.github.io/alura-books/" alt="link para acessar o site">Clique aqui para ver o projeto finalizado</a><br><br>
-Neste projeto tivemos contato com muitas tecnologias e tecnicas que ampliram o nosso conhecimento. Demos inicio no projeto com a estilização do site na perspectiva de um dispositivo movel, e assim fomos evoluindo, modificando as classses para que o site ao final como um todo estivesse atendendo a maior parte dos dispositivos, fazendo dele um site responsivel.
-No decorrer da aula foi realizada algumas revisões a cerca de alguns conceitos importantes, tais como: flexbox, listas, ancoras, pseudo classes e também combinadores no css.
+Neste projeto, tivemos contato com muitas tecnologias e técnicas que ampliaram o nosso conhecimento. Iniciamos o projeto com a estilização do site na perspectiva de um dispositivo móvel, e assim fomos evoluindo, modificando as classes para que o site, ao final, atendesse a maioria dos dispositivos, tornando-o responsivo. Ao longo do curso, foram realizadas algumas revisões em relação a conceitos importantes, tais como: flexbox, listas, âncoras, pseudo classes e também combinadores no CSS.
 
 
 Segue abaixo as implementações dos layouts de resposividade, seguindo o projeto desenvolvido no FIgma pela equipe da Alura: <br>
