@@ -31,19 +31,24 @@ Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 
 
 ## 💻 Projeto
-
+link do projeto: <a href="https://eloizi.github.io/alura-books/" alt="link para acessar o site">Clique aqui para ver o projeto finalizado</a><br><br>
 Neste projeto tivemmos contato com muitas tecnologias e tecnicas que ampliram o nosso conhecimento. Demos inicio no projeto com a estilização do site na perspectiva de um dispositivo movel, e assim fomos evoluindo, modificando as classses para que o site ao final como um todo estivesse atendendo a maior parte dos dispositivos, fazendo dele um site responsivel.
 No decorrer da aula foi realizada algumas revisões a cerca de alguns conceitos importantes, tais como: flexbox, listas, ancoras, pseudo classes e também combinadores no css.
 
 
 Segue abaixo as implementações dos layouts de resposividade, seguindo o projeto desenvolvido no FIgma pela equipe da Alura: <br>
 
-<li>Mobile (min-width; 428px); <br>
-  <img src="img/a.gif" alt="alura-books-mobile"><br>
-<li>Tablet (min-widtth: 1024px); <br>
-  <img width=100%" src="img/tablet.gif" alt="alura-books-tablet"><br>
-<li>Desktop (min-width: 1728px). <br>
-<img width="100%" src="img/desktop.gif" alt="alura-books-desktop"><br><br>
+<li><strong>Mobile (min-width; 428px);</strong> <br><br>
+  <p align="center"> <img width="20%" src="img/img_mobile.png" alt="alura-books-mobile"></p>
+ 
+ <hr> 
+<li>Tablet (min-widtth: 1024px); <br><br>
+   <p align="center"> <img width="30%" src="img/img_tablet.png" alt="alura-books-mobile"></p>
+  
+  <hr> 
+<li>Desktop (min-width: 1728px). <br><br>
+   <p align="center"> <img width="50%" src="img/img_desktop.png" alt="alura-books-mobile"></p>
+
 
 
 <!--<br>Para visualizar a versão atual do projeto é só<a href="https:/.github.io/alura-books/"> "Clicar aqui".</a>🚀 -->
@@ -55,8 +60,9 @@ Segue abaixo as implementações dos layouts de resposividade, seguindo o projet
 <br>
 
  <br><br>
- <sub><b>By Eloizi❤️</b></sub></a>
 
  👋 Agradeço por me visitar! Entre em contato! 💬✨
 
 [![Linkedin](https://img.shields.io/badge/Acesse%20o%20meu-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eloizi-nogueira-da-silva/) [![Gmail](https://img.shields.io/badge/Entre%20em%20Contato-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:nogueira.eloizi@gmail.com)](mailto:nogueira.eloizi@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/eloizisilva16/)](https://www.instagram.com/eloizisilva16/)
+
+<sub><b>Desenvolvido por: Eloizi ❤️</b></sub></a>
