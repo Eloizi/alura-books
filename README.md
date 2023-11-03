@@ -32,7 +32,7 @@ Projeto desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 link do projeto: <a href="https://eloizi.github.io/alura-books/" alt="link para acessar o site">Clique aqui para ver o projeto finalizado</a><br><br>
-Neste projeto tivemmos contato com muitas tecnologias e tecnicas que ampliram o nosso conhecimento. Demos inicio no projeto com a estilização do site na perspectiva de um dispositivo movel, e assim fomos evoluindo, modificando as classses para que o site ao final como um todo estivesse atendendo a maior parte dos dispositivos, fazendo dele um site responsivel.
+Neste projeto tivemos contato com muitas tecnologias e tecnicas que ampliram o nosso conhecimento. Demos inicio no projeto com a estilização do site na perspectiva de um dispositivo movel, e assim fomos evoluindo, modificando as classses para que o site ao final como um todo estivesse atendendo a maior parte dos dispositivos, fazendo dele um site responsivel.
 No decorrer da aula foi realizada algumas revisões a cerca de alguns conceitos importantes, tais como: flexbox, listas, ancoras, pseudo classes e também combinadores no css.
 
 
